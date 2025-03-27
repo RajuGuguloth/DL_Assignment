@@ -1,7 +1,7 @@
 DA6401 Assignment
 
 Github Link :- https://github.com/RajuGuguloth/DL_Assignment
-Wandb Linbk :- https://wandb.ai/rajuguguloth7670-iitm-india/Assignment%201/reports/DA6401-Assignment-1--VmlldzoxMTk5OTExMg?accessToken=pq26bub43vwu5avrl57u8as0ghpaow748no920375ggkiy6mfe2dzpo49htaw2lg
+Wandb Linbk :- https://wandb.ai/rajuguguloth7670-iitm-india/Assignment%201/reports/CS24M036_-Raju-_DA6401-Assignment-1--VmlldzoxMTk5OTExMg?accessToken=pq26bub43vwu5avrl57u8as0ghpaow748no920375ggkiy6mfe2dzpo49htaw2lg
 
 python train.py --wandb_entity myname --wandb_project myprojectname
 
